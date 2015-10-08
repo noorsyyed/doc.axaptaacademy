@@ -18,13 +18,9 @@ Topics
 
 .. toctree::
     :titlesonly:
-
     
     x-Language-Programming/index
-    Services and Application Framework/index
     
-
-
 Contribute
 ----------
 

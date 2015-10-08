@@ -8,7 +8,7 @@
 Axapta Tutorial
 =======================
 
-.. attention:: ASP.NET 5 beta7 is now available! Please see the :doc:`Getting Started <getting-started/index>` instructions for installing the latest version.
+.. attention:: The document is a work in progress. Contributions from the community is most welcome.
 
 .. include:: ../common/stub-overview.txt
 
@@ -20,7 +20,7 @@ Topics
     :titlesonly:
 
     
-    x++ Language Programming/index
+    x-Language-Programming/index
     Services and Application Framework/index
     
 
